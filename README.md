@@ -68,7 +68,7 @@ status: "Open for collaborations & projects"
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/itsme-zaid?theme=light&font=Fira+Code&ext=heatmap)](https://leetcode.com/NotMeZaid)
+![LeetCode Stats](https://leetcard.jacoblin.cool/NotMeZaid?theme=dark&font=Fira%20Code&ext=heatmap)
 
 </div>
 
