@@ -14,7 +14,7 @@
 ```yaml
 name: Mohammad Zaid
 location: Faizabad, Uttar Pradesh, India
-education: 3rd Year B.Tech Student
+education: 4th Year B.Tech Student
 role: Backend Engineer | Spring Boot Developer
 focus:
   - System Design & Architecture
